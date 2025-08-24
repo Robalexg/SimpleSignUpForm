@@ -71,3 +71,7 @@ input{
     font-size: 1rem;
     padding: 1rem 4rem;
 }
+
+input:invalid{
+    border-color: red;
+}
